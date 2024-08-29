@@ -19,7 +19,7 @@ const WomenCollection = (props) => {
         <img src={image3} alt={title} />
         <img src={image4} alt={title} />
         <img src={image5} alt={title} />
-        <img src={image6} alt={title} />
+        {/* <img src={image6} alt={title} /> */}
 
         </div>
 
